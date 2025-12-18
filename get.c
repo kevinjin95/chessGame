@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "myLib.h"
+// #include "myLib.h"
 
 int get(char *move, int ind)
 {
