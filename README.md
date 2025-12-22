@@ -3,7 +3,7 @@ A chess game made from C language, playable through the terminal
 
 ## Create your library:
 
-##### Create the header of your library, it must contains the line where there are what the function returns, the name of the function and the arguments of the funtion of every functions that your library contains. To see an example, check the myLib.h file. Finally, your main file must include the header's file.
+##### Create the header of your library, it must contains the line where there are what the function returns, the name of the function and the arguments of the funtion of every functions that your library contains. To see an example, check the myLib.h file. Finally, every file which use a function from the library must include the header's file.
 
 ##### Create the objects:
 ```zsh

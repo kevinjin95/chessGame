@@ -1,4 +1,4 @@
-void check(char *str, int upOrDown)
+int check(char *str, int upOrDown)
 {
     
 }

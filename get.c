@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
-// #include "myLib.h"
+
+//Used to retrieve a single char from string, 
+//this function will return the ASCII value present at the index 
 
 int get(char *move, int ind)
 {
